@@ -1,4 +1,4 @@
-# Quick-Actions
+# Quick Actions
 Handy macOS quick actions for Automator
 
 All actions only require the default macOS apps to be installed. Anyone with macOS 10.14 or newer (and maybe earlier) should be able to run these.
