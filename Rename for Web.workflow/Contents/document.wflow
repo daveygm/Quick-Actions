@@ -77,8 +77,6 @@
 				</array>
 				<key>arguments</key>
 				<dict/>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -540,8 +538,6 @@
 						<string>9</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -1021,8 +1017,6 @@
 						<string>9</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -1502,8 +1496,6 @@
 						<string>9</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -1973,8 +1965,6 @@
 						<string>9</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -2454,8 +2444,6 @@
 						<string>9</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -2469,40 +2457,40 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>1498104B-ACF4-4D7E-AFF2-B0CB46C8623F</key>
+		<key>78FD9D4C-F62C-42BD-A6DA-4F8724041466</key>
+		<dict>
+			<key>from</key>
+			<string>677EAA74-6A49-4FB1-A89C-DC6E57946521 - 677EAA74-6A49-4FB1-A89C-DC6E57946521</string>
+			<key>to</key>
+			<string>D6470BAF-0584-4110-812C-CFC10DEBFCD0 - D6470BAF-0584-4110-812C-CFC10DEBFCD0</string>
+		</dict>
+		<key>90136E37-2C97-4502-8C2C-D7D9E7A2978E</key>
 		<dict>
 			<key>from</key>
 			<string>D6470BAF-0584-4110-812C-CFC10DEBFCD0 - D6470BAF-0584-4110-812C-CFC10DEBFCD0</string>
 			<key>to</key>
 			<string>7D7C9F5E-349B-40A9-B64D-188A473D972C - 7D7C9F5E-349B-40A9-B64D-188A473D972C</string>
 		</dict>
-		<key>379B2790-7AFA-4125-9974-3D35DFCC16F5</key>
-		<dict>
-			<key>from</key>
-			<string>677EAA74-6A49-4FB1-A89C-DC6E57946521 - 677EAA74-6A49-4FB1-A89C-DC6E57946521</string>
-			<key>to</key>
-			<string>D6470BAF-0584-4110-812C-CFC10DEBFCD0 - D6470BAF-0584-4110-812C-CFC10DEBFCD0</string>
-		</dict>
-		<key>84FE96F2-D277-4A80-BF04-88F077A14B2C</key>
-		<dict>
-			<key>from</key>
-			<string>22EE33D2-B64A-40C1-A81F-B96FE50E0451 - 22EE33D2-B64A-40C1-A81F-B96FE50E0451</string>
-			<key>to</key>
-			<string>677EAA74-6A49-4FB1-A89C-DC6E57946521 - 677EAA74-6A49-4FB1-A89C-DC6E57946521</string>
-		</dict>
-		<key>97B8A721-6876-468F-8127-8D927BB50A93</key>
+		<key>AE878017-75AA-470C-9849-4C2A52C629EF</key>
 		<dict>
 			<key>from</key>
 			<string>1037B824-01D9-46E1-B2A6-D4757CDBF76A - 1037B824-01D9-46E1-B2A6-D4757CDBF76A</string>
 			<key>to</key>
 			<string>40225620-C017-422E-AEFA-35DDA2B5D1D8 - 40225620-C017-422E-AEFA-35DDA2B5D1D8</string>
 		</dict>
-		<key>F9CB98FB-A5B1-46DD-8AA2-80F13AA1C15B</key>
+		<key>BC4FA4D4-5233-46E5-B652-8407E8CCD90C</key>
 		<dict>
 			<key>from</key>
 			<string>7D7C9F5E-349B-40A9-B64D-188A473D972C - 7D7C9F5E-349B-40A9-B64D-188A473D972C</string>
 			<key>to</key>
 			<string>1037B824-01D9-46E1-B2A6-D4757CDBF76A - 1037B824-01D9-46E1-B2A6-D4757CDBF76A</string>
+		</dict>
+		<key>FCA7AF07-8954-4EDE-8243-D9C7337FFC41</key>
+		<dict>
+			<key>from</key>
+			<string>22EE33D2-B64A-40C1-A81F-B96FE50E0451 - 22EE33D2-B64A-40C1-A81F-B96FE50E0451</string>
+			<key>to</key>
+			<string>677EAA74-6A49-4FB1-A89C-DC6E57946521 - 677EAA74-6A49-4FB1-A89C-DC6E57946521</string>
 		</dict>
 	</dict>
 	<key>workflowMetaData</key>
@@ -2539,7 +2527,7 @@
 		<key>serviceProcessesInput</key>
 		<integer>0</integer>
 		<key>systemImageName</key>
-		<string>NSActionTemplate</string>
+		<string>NSTouchBarGlobe</string>
 		<key>useAutomaticInputType</key>
 		<integer>1</integer>
 		<key>workflowTypeIdentifier</key>

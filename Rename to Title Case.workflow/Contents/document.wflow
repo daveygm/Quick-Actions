@@ -77,8 +77,6 @@
 				</array>
 				<key>arguments</key>
 				<dict/>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -550,8 +548,6 @@
 						<string>9</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -1031,8 +1027,6 @@
 						<string>9</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -1512,8 +1506,6 @@
 						<string>9</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -1983,8 +1975,6 @@
 						<string>9</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
@@ -1998,33 +1988,33 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>77655F88-64E4-4121-8B37-F2D7449CFBD7</key>
-		<dict>
-			<key>from</key>
-			<string>BCD1CCF1-005B-4B19-A72D-DBF1FB7354BE - BCD1CCF1-005B-4B19-A72D-DBF1FB7354BE</string>
-			<key>to</key>
-			<string>38D56412-815C-427C-9DF9-F053ACA4458A - 38D56412-815C-427C-9DF9-F053ACA4458A</string>
-		</dict>
-		<key>B8D7185B-74AD-4B97-8FD7-0666BA40FB5D</key>
-		<dict>
-			<key>from</key>
-			<string>7151180B-B45C-49BD-8363-950D9AB542DA - 7151180B-B45C-49BD-8363-950D9AB542DA</string>
-			<key>to</key>
-			<string>BCD1CCF1-005B-4B19-A72D-DBF1FB7354BE - BCD1CCF1-005B-4B19-A72D-DBF1FB7354BE</string>
-		</dict>
-		<key>C9C7E26E-F0D0-47B4-8687-EF17A864D5FD</key>
+		<key>25A03504-8167-48FA-838E-4948E6B9CB53</key>
 		<dict>
 			<key>from</key>
 			<string>E98F908F-C05D-434F-B0CA-461B37D92F3B - E98F908F-C05D-434F-B0CA-461B37D92F3B</string>
 			<key>to</key>
 			<string>7151180B-B45C-49BD-8363-950D9AB542DA - 7151180B-B45C-49BD-8363-950D9AB542DA</string>
 		</dict>
-		<key>F4BF8A0A-D587-44CC-B1E1-49DF835B9DEC</key>
+		<key>351ABCDE-8F5F-40CB-91C5-5A0847170A1B</key>
+		<dict>
+			<key>from</key>
+			<string>7151180B-B45C-49BD-8363-950D9AB542DA - 7151180B-B45C-49BD-8363-950D9AB542DA</string>
+			<key>to</key>
+			<string>BCD1CCF1-005B-4B19-A72D-DBF1FB7354BE - BCD1CCF1-005B-4B19-A72D-DBF1FB7354BE</string>
+		</dict>
+		<key>44138FF3-ED07-4E84-85BD-E55F9240AE21</key>
 		<dict>
 			<key>from</key>
 			<string>38D56412-815C-427C-9DF9-F053ACA4458A - 38D56412-815C-427C-9DF9-F053ACA4458A</string>
 			<key>to</key>
 			<string>250EC0B8-1E6A-4F96-B4CA-E5D0064F7757 - 250EC0B8-1E6A-4F96-B4CA-E5D0064F7757</string>
+		</dict>
+		<key>D8C97833-B26E-46DB-9674-D136B4DB9A9C</key>
+		<dict>
+			<key>from</key>
+			<string>BCD1CCF1-005B-4B19-A72D-DBF1FB7354BE - BCD1CCF1-005B-4B19-A72D-DBF1FB7354BE</string>
+			<key>to</key>
+			<string>38D56412-815C-427C-9DF9-F053ACA4458A - 38D56412-815C-427C-9DF9-F053ACA4458A</string>
 		</dict>
 	</dict>
 	<key>workflowMetaData</key>
@@ -2061,7 +2051,7 @@
 		<key>serviceProcessesInput</key>
 		<integer>0</integer>
 		<key>systemImageName</key>
-		<string>NSActionTemplate</string>
+		<string>NSTouchBarDocuments</string>
 		<key>useAutomaticInputType</key>
 		<integer>1</integer>
 		<key>workflowTypeIdentifier</key>

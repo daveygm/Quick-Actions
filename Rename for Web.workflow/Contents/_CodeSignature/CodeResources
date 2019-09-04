@@ -10,29 +10,29 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4Yuskjzs4GFgUGXzf4v2VLmxoZw=
+			z+CNZQsiTGTn+Zs7OVygFzc/QyQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			63YWvEhGgyNT1tT6kVF+Va+cbLPrTcns6iz2uZNxWA0=
+			2GssUV9vTayUXd8WYpTIMpLPsd7kJ1ZVXKxMqJVw2e8=
 			</data>
 		</dict>
 		<key>QuickLook/Thumbnail.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			zEymafbHmHdf4CtC1V8oUdSbgtY=
+			2hGwzG7vH4KX1LXZPzUY88OCH0w=
 			</data>
 			<key>hash2</key>
 			<data>
-			/A8nqbdQvxjZHa814tuHXLfyoG03mhBf/sx2cbf026k=
+			8nqurlpKmTzyQfM4SqdNxt9ez5omBB11oeAefvTDEBw=
 			</data>
 		</dict>
 		<key>document.wflow</key>
 		<dict>
 			<key>cdhash</key>
 			<data>
-			Ya+AC1OioIXtlPb+RxtA3++mWuE=
+			YqoyZzg7fye2HqvjtEt6Eq7JXJg=
 			</data>
 			<key>requirement</key>
 			<string>identifier document and anchor apple generic and certificate leaf[subject.CN] = "Mac Developer: David Mead (34U59KF332)" and certificate 1[field.1.2.840.113635.100.6.2.1] /* exists */</string>
