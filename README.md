@@ -27,7 +27,7 @@ All actions only require the default macOS apps to be installed. Anyone with mac
 
 * Clone the repository.
 * Open Automator on your Mac.
-* Select **File** > **Import Actions...*** from the menu.
+* Select **File** > **Import Actions...** from the menu.
 * Browse to the repository where you cloned it.
 * Import the actions.
 
